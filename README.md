@@ -1,6 +1,6 @@
 # Luiz Carreira
 
-> Desenvolvedor Back-End com foco em Python, Node.js e Arquiteturas Limpas
+> Developer focused on Automation and Data Engineering | Post-grad @ PUC Minas
 
 <p align="left">
   <a href="mailto:luizcarreira4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -9,17 +9,17 @@
 
 ---
 
-### Sobre Mim
+### 🟢 About Me
 
-Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Itapetininga e atualmente cursando Pós-graduação em Engenharia de Dados na PUC Minas.
+I hold a degree in **Systems Analysis and Development from FATEC Itapetininga** and am currently pursuing a **Postgraduate degree in Data Engineering at PUC Minas**.
 
-Transicionei meu foco do desenvolvimento Backend tradicional para o universo de Dados e Automação. Minha base acadêmica no ciclo de vida de software, aliada à experiência no serviço militar (onde recebi o certificado de Honra ao Mérito), me permite construir soluções com alto rigor técnico, disciplina e resiliência.
+I have transitioned my focus from traditional Backend development to the world of **Data and Automation**. My academic background in the software development lifecycle (SDLC), combined with my military service experience—where I was awarded a **Certificate of Merit**—enables me to build solutions with high technical rigor, discipline, and resilience.
 
-Hoje, busco aplicar conceitos de Clean Architecture e boas práticas de desenvolvimento no design de pipelines de dados e automações eficientes.
+Currently, I apply **Clean Architecture** concepts and software engineering best practices to design efficient data pipelines and automation systems.
 
 ---
 
-### 💻 Tecnologias Principais
+### 💻 Main Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,12 +29,13 @@ Hoje, busco aplicar conceitos de Clean Architecture e boas práticas de desenvol
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-| Projeto | Descrição Técnica | Tecnologias | Link |
+| Project | Technical Description | Technologies | Link |
 | :--- | :--- | :--- | :--- |
-| **API Gerenciamento de Empresa** | API RESTful com separação de camadas (Clean Architecture) para gestão de estoques, funcionários e veículos. | `Python`, `Flask`, `PostgreSQL` | <a href="https://github.com/oluizcarreira/API-Gerenciamento_Empresa">**Ver Código**</a> |
-| **Área Logada com Node.js** | Implementação de um sistema de autenticação segura utilizando Bcrypt para hashing de senhas e JWT para gerenciamento de sessões. | `Node.js`, `Express`, `MongoDB` | <a href="https://github.com/oluizcarreira/AreaLogada-NodeJS">**Ver Código**</a> |
-| **Sistema para Pet Shop**| Sistema CRUD completo com interface web para gerenciamento de um pet shop, utilizando Flask e MongoDB. | `Python`, `Flask`, `MongoDB` | <a href="https://github.com/oluizcarreira/Sistema-para-um-Pet-Shop">**Ver Código**</a> |
+| **Business Management API** | RESTful API with layer separation (Clean Architecture) for managing inventory, employees, and vehicles. | `Python`, `Flask`, `PostgreSQL` | <a href="https://github.com/oluizcarreira/API-Gerenciamento_Empresa">**View Code**</a> |
+| **Secure Auth System** | Implementation of a secure authentication system using Bcrypt for password hashing and JWT for session management. | `Node.js`, `Express`, `MongoDB` | <a href="https://github.com/oluizcarreira/AreaLogada-NodeJS">**View Code**</a> |
+| **Pet Shop System**| Full CRUD system with a web interface for pet shop management, utilizing Flask and MongoDB. | `Python`, `Flask`, `MongoDB` | <a href="https://github.com/oluizcarreira/Sistema-para-um-Pet-Shop">**View Code**</a> |
 
 ---
+*Building efficient and ethical technology solutions.*
