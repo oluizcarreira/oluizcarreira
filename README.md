@@ -11,9 +11,11 @@
 
 ### Sobre Mim
 
-Formado em Análise e Desenvolvimento de Sistemas na FATEC Itapetininga, com experiência prática no desenvolvimento de APIs RESTful. Meu foco é na construção de um back-end performático e de fácil manutenção, aplicando boas práticas de mercado e padrões de arquitetura.
+Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Itapetininga e atualmente cursando Pós-graduação em Engenharia de Dados na PUC Minas.
 
-Minha stack principal inclui Python (Flask, Django) e Node.js (Express), com bancos de dados como PostgreSQL e MongoDB. Tenho um interesse particular em **Clean Architecture**, um conceito que apliquei no meu projeto de API para gerenciamento empresarial, buscando a separação clara de responsabilidades e a testabilidade do código.
+Transicionei meu foco do desenvolvimento Backend tradicional para o universo de Dados e Automação. Minha base acadêmica no ciclo de vida de software, aliada à experiência no serviço militar (onde recebi o certificado de Honra ao Mérito), me permite construir soluções com alto rigor técnico, disciplina e resiliência.
+
+Hoje, busco aplicar conceitos de Clean Architecture e boas práticas de desenvolvimento no design de pipelines de dados e automações eficientes.
 
 ---
 
