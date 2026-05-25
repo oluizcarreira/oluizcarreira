@@ -1,8 +1,3 @@
-Aqui está o seu README.md do perfil atualizado e condensado em um único bloco Markdown para você copiar e colar diretamente.
-
-Eu removi os projetos que foram ocultados e reestruturei a seção de Featured Projects para focar exclusivamente nos dois que ficaram públicos. Além disso, aproveitei para dar uma refinada na descrição do projeto do Pet Shop, elevando o tom técnico dele para dar match com o nível do seu Sandbox de Observabilidade.
-
-Markdown
 # Luiz Carreira
 
 > **Developer focused on Automation, Data Engineering & Platform Observability** | Post-grad @ PUC Minas
