@@ -1,3 +1,8 @@
+Aqui está o seu README.md do perfil atualizado e condensado em um único bloco Markdown para você copiar e colar diretamente.
+
+Eu removi os projetos que foram ocultados e reestruturei a seção de Featured Projects para focar exclusivamente nos dois que ficaram públicos. Além disso, aproveitei para dar uma refinada na descrição do projeto do Pet Shop, elevando o tom técnico dele para dar match com o nível do seu Sandbox de Observabilidade.
+
+Markdown
 # Luiz Carreira
 
 > **Developer focused on Automation, Data Engineering & Platform Observability** | Post-grad @ PUC Minas
@@ -57,9 +62,7 @@ Currently, I apply **Clean Architecture** concepts and software engineering best
 | Project | Technical Description | Technologies | Link |
 | :--- | :--- | :--- | :--- |
 | **Multicluster Observability Sandbox** | Distributed architecture sandbox running 3 isolated local clusters (KinD) separated by context (App, Obs, UI). Full production-ready OpenTelemetry implementation routing Metrics, Distributed Traces, and Centralized Logs with custom metadata ingestion via NGINX Ingress. | `OpenTelemetry`, `Kubernetes (KinD)`, `Grafana (Tempo/Loki)`, `Prometheus`, `FastAPI` | <a href="https://github.com/oluizcarreira/multicluster-observability-sandbox">**View Code**</a> |
-| **Business Management API** | RESTful API designed with strict layer separation (Clean Architecture) for highly maintainable enterprise inventory, employee, and vehicle management. | `Python`, `Flask`, `PostgreSQL` | <a href="https://github.com/oluizcarreira/API-Gerenciamento_Empresa">**View Code**</a> |
-| **Secure Auth System** | Implementation of a robust authentication system applying secure industry patterns using Bcrypt for password hashing and JWT for state-independent session management. | `Node.js`, `Express`, `MongoDB` | <a href="https://github.com/oluizcarreira/AreaLogada-NodeJS">**View Code**</a> |
-| **Pet Shop System**| Full CRUD system integrated with an intuitive web interface for modern retail pet shop operational management. | `Python`, `Flask`, `MongoDB` | <a href="https://github.com/oluizcarreira/Sistema-para-um-Pet-Shop">**View Code**</a> |
+| **Pet Shop Management System** | Complete CRUD system built for a NoSQL academic challenge. Explores schema-less dynamic querying (PyMongo regex/date filters), strict session authentication with custom routing decorators, and secure password hashing via Werkzeug. | `Python`, `Flask`, `MongoDB`, `PyMongo`, `Werkzeug` | <a href="https://github.com/oluizcarreira/sistema-para-um-pet-shop">**View Code**</a> |
 
 ---
-*Building efficient, observable, and ethical technology solutions.*
+*Building efficient, observable, and resilient technology solutions.*
